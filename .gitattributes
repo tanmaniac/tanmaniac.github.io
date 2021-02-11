@@ -1,0 +1,6 @@
+assets/msfs_sdk/5_install_sdk.png filter=lfs diff=lfs merge=lfs -text
+assets/msfs_sdk/0_start_page.png filter=lfs diff=lfs merge=lfs -text
+assets/msfs_sdk/1_settings.png filter=lfs diff=lfs merge=lfs -text
+assets/msfs_sdk/2_general.png filter=lfs diff=lfs merge=lfs -text
+assets/msfs_sdk/3_developer.png filter=lfs diff=lfs merge=lfs -text
+assets/msfs_sdk/4_dev_options_on.png filter=lfs diff=lfs merge=lfs -text
